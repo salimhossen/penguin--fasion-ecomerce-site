@@ -1,0 +1,36 @@
+.half-width img{
+    width:400px;
+}
+nav img{
+    width: 300px;
+}
+.top-banner{
+    background-color:rgb(245, 239, 239);
+}
+
+h1{
+    font-size:50px;
+}
+main img{
+    width: 300px;
+    height:400px;
+    
+}
+.services img{
+    width: 70px;
+    height: 80px;
+}
+.margin{
+    margin-top:150px;
+    margin-bottom: 150px;
+   
+    
+}
+.panguin-card{
+    border: none;
+}
+.penguin-card-footer{
+    border-top: none;
+    background-color: white;
+
+}
